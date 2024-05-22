@@ -2,8 +2,7 @@
 
 # 2. Control Flow Graph
 
-
-![grafik drawio](https://github.com/stojanovaam/SI_2024_lab2_223202/assets/138001608/4cebf9d6-3adc-4b96-801a-d8cd0c3c91d1)
+![controlFlowGraph drawio](https://github.com/stojanovaam/SI_2024_lab2_223202/assets/138001608/055b2b3f-1cca-4828-b5e2-7a2eaf9dd7a3)
 
 
 # 3. Цикломатска комплексност
@@ -25,5 +24,7 @@
 3)item("Atlas","4209",400,29.9),payment=120
 
 4)item("Guma","0712",40,0),payment=45
+
+![EveryBranch](https://github.com/stojanovaam/SI_2024_lab2_223202/assets/138001608/4f3126c7-cc0c-44d6-8f11-28a5b9afdda0)
 
 5)item("","0512",500,0),payment=30
