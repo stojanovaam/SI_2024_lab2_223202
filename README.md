@@ -25,6 +25,9 @@
 
 4)item("Guma","0712",40,0),payment=45
 
+5)item("","0512",500,0),payment=30
+
+6)item("Platno","",490,10),payment=45
+
 ![EveryBranch](https://github.com/stojanovaam/SI_2024_lab2_223202/assets/138001608/4f3126c7-cc0c-44d6-8f11-28a5b9afdda0)
 
-5)item("","0512",500,0),payment=30
